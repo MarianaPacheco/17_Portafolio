@@ -1,0 +1,136 @@
+.fondo-yellow{
+	background-color: #FBDA05;
+	padding-bottom: 20%;
+}
+
+.boton{
+	font-size:14px;
+    font-family:Verdana,Helvetica;
+    font-weight:bold;
+    color:#020202;
+    background:#F9A22C;
+    width:150px;
+    height:50px;
+    margin: 2% 0% 10% 8%; 
+   	transition: 1s; 
+    cursor: pointer;
+}
+
+h1{
+	color:#ffffff;
+	text-align: center;
+}
+
+h4{
+	color:#ffffff;
+	font-weight: normal;
+	text-align: center;
+}
+
+.fondo-graylight{
+	background-color: #DCDBDA;
+}
+
+.bg-white{
+	background-color: #ffffff;
+	width: 30%;
+	height: 20%;
+	margin: 5% 2%;
+	padding: 10px 10px;
+	display: inline-block;
+}
+
+#cuadroleft{
+	margin-left: 18%;
+}
+
+.gray-cuadro{
+	background-image: url("../img/proy1.jpg");
+ 	height: 200px;
+ 	display: block;
+ 	margin:auto;
+ 	background-repeat: no-repeat;
+ 	background-size: 100% 100%;
+ 	margin-bottom:10px; 
+}
+
+.gray-cuadro2{
+	background-image: url("../img/proy2.jpg");
+ 	height: 200px;
+ 	display: block;
+ 	margin:auto;
+ 	background-repeat: no-repeat;
+ 	background-size: 100% 100%;
+ 	margin-bottom:10px; 
+ }
+
+.textgray{
+	color:#9B9B9B;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	margin-bottom: 20%;
+}
+
+h2{
+	color:#9B9B9B;
+}
+
+.mg-p{
+	margin: 5px 10px;
+	color: #DCDBDA;
+}
+
+ a{
+	text-decoration: none;	
+	list-style-type: none; 
+	color: #020202;
+}
+
+.li-menu{
+	margin: 60px 0px 0px 20px;
+	display: inline-block;
+	color: #ffffff;
+}
+
+.ul-menu{
+	margin-left: 900px;
+}
+
+.bg-gray-footer{
+	background-color: #373737;
+}
+
+.boton2{
+	font-size:14px;
+    font-family:Verdana,Helvetica;
+    font-weight:bold;
+    color:#ffffff;
+    background:#F9A22C;
+    width:150px;
+    height:30px;
+    margin: 0% 0% 0% 30%; 
+   	transition: 1s; 
+    cursor: pointer;
+}
+
+.cuadro{
+	display: inline;
+}
+
+.bg-white2{
+	background-color: #ffffff;
+	width: 30%;
+	height: 20%;
+	margin: 0% 2% 2% 2%;
+	padding: 10px 10px;
+	display: inline-block;
+}
+
+.foot{
+	color: #ffffff;
+	margin-left: 10%;
+	font-size: 16px;
+	font-weight: normal;
+	padding: 2% 3% 3% 3%;
+}
